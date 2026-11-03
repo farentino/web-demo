@@ -215,7 +215,7 @@ The Google Apps Script backend is maintained separately in Google Apps Script as
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+https://github.com/farentino/web-demo/
 ```
 
 ### 2. Open the Project
