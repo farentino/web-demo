@@ -22,12 +22,12 @@ Customers can view the available barbering services and their prices.
 
 | Service | Price |
 |---|---:|
-| Classic Haircut | R180 |
-| Skin Fade | R220 |
-| Beard Trim | R120 |
-| Kids Cut | R140 |
-| Cut & Beard | R300 |
-| The Full Package | R380 |
+| Classic Haircut | R70 |
+| Skin Fade | R100 |
+| Beard Trim | R50 |
+| School Boy Cut | R70 |
+| Cut & Beard | R150 |
+| The Full Package | R270 |
 
 ### 3. About Section
 Provides information about The Gents Cut, its approach to barbering, and its commitment to professional grooming and customer service.
